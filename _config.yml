@@ -24,7 +24,8 @@ github_username:  rolanchristianphd
 linkedin_username: rolanchristian
 
 # Build settings
-disqus.shortname: rolanchristianphd-github-io
+disqus:
+ shortname: rolanchristianphd-github-io
 markdown: kramdown
 theme: minima
 gems:
