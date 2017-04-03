@@ -18,7 +18,7 @@ email: rolan.christian@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
  Hi, my name is Rolan Christian. I am a husband, father, academic, software engineer, business leader and a blogger.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://rolanchristianphd.github.io
 twitter_username: redhot358
 github_username:  rolanchristianphd
 linkedin_username: rolanchristian
